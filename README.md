@@ -6,7 +6,7 @@ Receptor-ligand docking is vital in drug discovery for identifying potential dru
 This notebooks are Python 3 compatible.
 
 ## Requirements
-Jupyter Dock is reliant on a variety of academic software. The Jupyter Dock.yaml file contains all the tools and dependencies, but the following are some of the most noticeable:
+This project is reliant on a variety of Python librairies such as :
 
 - [Autodock Vina](https://autodock-vina.readthedocs.io/en/latest/) 
 - [OpenBabel](http://openbabel.org/wiki/Main_Page)
@@ -22,8 +22,8 @@ Jupyter Dock is reliant on a variety of academic software. The Jupyter Dock.yaml
 1.1. Create a conda enviroment  
 
 ```
-conda create -n Jupyter_Dock python=3.8
-conda activate Jupyter_Dock
+conda create -n Docking python=3.8
+conda activate Docking
 ```
 
 1.2. Install de dependencies 
