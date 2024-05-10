@@ -1,0 +1,310 @@
+MODEL 1
+REMARK VINA RESULT:    -0.159      0.000      0.000
+REMARK INTER + INTRA:          -0.424
+REMARK INTER:                  -0.168
+REMARK INTRA:                  -0.256
+REMARK UNBOUND:                -0.256
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       7.988  -1.394  -3.084  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1       7.891  -2.639  -4.005  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1       9.002  -3.561  -3.461  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1       9.966  -2.707  -2.743  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1       9.515  -1.303  -2.841  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1      10.095  -3.123  -1.340  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1       9.689  -4.265  -4.602  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1      10.350  -5.460  -4.390  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1      10.954  -6.082  -5.384  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1      10.953  -5.595  -6.609  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1      10.313  -4.405  -6.897  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1       9.663  -3.725  -5.879  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:    -0.152      1.595      2.598
+REMARK INTER + INTRA:          -0.417
+REMARK INTER:                  -0.161
+REMARK INTRA:                  -0.256
+REMARK UNBOUND:                -0.256
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       9.928  -1.066  -1.199  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1      10.944  -2.030  -1.866  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1      10.636  -1.873  -3.370  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1       9.258  -1.363  -3.483  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1       8.694  -1.223  -2.123  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1       9.226  -0.082  -4.200  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1      10.748  -3.208  -4.059  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1      10.854  -3.278  -5.435  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1      10.952  -4.443  -6.046  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1      10.954  -5.579  -5.376  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1      10.852  -5.588  -3.997  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1      10.752  -4.382  -3.320  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:    -0.125      1.902      2.801
+REMARK INTER + INTRA:          -0.389
+REMARK INTER:                  -0.133
+REMARK INTRA:                  -0.256
+REMARK UNBOUND:                -0.256
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       9.610  -3.336  -1.229  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1       9.000  -2.711  -2.512  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1       9.413  -3.710  -3.614  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1      10.585  -4.451  -3.116  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1      10.929  -3.940  -1.772  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1      10.319  -5.895  -3.078  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1       9.773  -2.964  -4.873  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1       9.800  -3.619  -6.090  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1      10.114  -2.973  -7.196  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1      10.413  -1.689  -7.188  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1      10.406  -0.968  -6.009  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1      10.076  -1.612  -4.826  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:    -0.124      2.045      3.036
+REMARK INTER + INTRA:          -0.387
+REMARK INTER:                  -0.164
+REMARK INTRA:                  -0.224
+REMARK UNBOUND:                -0.256
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       7.175  -1.171  -5.285  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1       8.076  -2.164  -4.505  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1       9.376  -2.182  -5.338  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1       9.028  -1.737  -6.700  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1       7.574  -1.472  -6.752  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1       9.795  -0.543  -7.077  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1       9.938  -3.579  -5.382  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1      10.209  -4.186  -6.593  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1      10.702  -5.408  -6.640  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1      10.954  -6.096  -5.544  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1      10.709  -5.554  -4.296  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1      10.196  -4.269  -4.208  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:    -0.121      2.404      3.537
+REMARK INTER + INTRA:          -0.384
+REMARK INTER:                  -0.128
+REMARK INTRA:                  -0.256
+REMARK UNBOUND:                -0.256
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       5.790  -3.520  -3.782  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1       7.336  -3.473  -3.901  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1       7.566  -3.431  -5.427  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1       6.358  -3.984  -6.066  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1       5.408  -4.387  -5.008  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1       5.749  -3.005  -6.976  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1       8.766  -4.266  -5.788  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1       9.490  -3.991  -6.933  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1      10.543  -4.718  -7.256  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1      10.945  -5.726  -6.509  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1      10.271  -6.060  -5.349  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1       9.163  -5.316  -4.974  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:    -0.102      1.336      1.518
+REMARK INTER + INTRA:          -0.364
+REMARK INTER:                  -0.109
+REMARK INTRA:                  -0.255
+REMARK UNBOUND:                -0.256
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       7.839  -0.582  -5.382  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1       7.825  -2.010  -5.988  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1       8.477  -2.864  -4.880  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1       9.280  -1.955  -4.043  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1       9.175  -0.588  -4.597  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1       8.833  -1.992  -2.645  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1       9.364  -3.914  -5.497  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1       9.591  -5.110  -4.842  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1      10.366  -6.034  -5.375  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1      10.952  -5.858  -6.543  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1      10.772  -4.687  -7.256  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1       9.959  -3.695  -6.730  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:    -0.101      2.005      3.119
+REMARK INTER + INTRA:          -0.363
+REMARK INTER:                  -0.107
+REMARK INTRA:                  -0.256
+REMARK UNBOUND:                -0.256
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       6.278  -3.105  -1.729  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1       7.798  -3.184  -2.029  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1       7.840  -3.402  -3.556  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1       6.537  -3.966  -3.953  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1       5.706  -4.129  -2.741  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1       5.869  -3.106  -4.939  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1       8.944  -4.365  -3.907  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1       9.434  -4.427  -5.198  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1      10.401  -5.267  -5.513  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1      10.936  -6.075  -4.619  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1      10.498  -6.069  -3.308  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1       9.487  -5.196  -2.938  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:    -0.092      2.149      3.607
+REMARK INTER + INTRA:          -0.353
+REMARK INTER:                  -0.098
+REMARK INTRA:                  -0.256
+REMARK UNBOUND:                -0.256
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       6.501  -2.350  -5.921  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1       8.002  -2.478  -5.552  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1       8.298  -3.970  -5.817  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1       7.012  -4.688  -5.759  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1       5.943  -3.715  -5.446  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1       6.738  -5.382  -7.024  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1       9.232  -4.503  -4.762  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1      10.021  -5.608  -5.020  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1      10.841  -6.081  -4.102  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1      10.943  -5.525  -2.911  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1      10.187  -4.416  -2.581  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1       9.317  -3.887  -3.522  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:    -0.092      1.735      2.635
+REMARK INTER + INTRA:          -0.353
+REMARK INTER:                  -0.138
+REMARK INTRA:                  -0.215
+REMARK UNBOUND:                -0.256
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       6.744  -4.532  -2.630  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1       8.177  -4.901  -3.099  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1       8.681  -3.590  -3.738  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1       7.494  -2.801  -4.112  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1       6.284  -3.573  -3.757  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1       7.499  -1.493  -3.445  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1       9.499  -3.900  -4.965  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1       9.574  -2.991  -6.003  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1      10.288  -3.254  -7.080  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1      10.954  -4.384  -7.211  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1      10.927  -5.341  -6.214  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1      10.191  -5.097  -5.064  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL
+MODEL 10
+REMARK VINA RESULT:    -0.061      2.138      4.056
+REMARK INTER + INTRA:          -0.320
+REMARK INTER:                  -0.064
+REMARK INTRA:                  -0.256
+REMARK UNBOUND:                -0.256
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       8.156  -0.246  -6.360  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1       8.920  -0.242  -5.010  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1       9.797  -1.508  -5.104  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1       9.168  -2.404  -6.091  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1       7.933  -1.761  -6.589  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1      10.090  -2.702  -7.194  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1       9.862  -2.187  -3.760  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1      10.890  -3.065  -3.469  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1      10.954  -3.663  -2.296  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1      10.049  -3.453  -1.361  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1       8.992  -2.589  -1.579  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1       8.895  -1.937  -2.799  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL

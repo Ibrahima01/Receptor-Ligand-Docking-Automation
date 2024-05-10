@@ -1,0 +1,62 @@
+MODEL 1
+REMARK VINA RESULT:     1.979      0.000      0.000
+REMARK INTER + INTRA:           1.895
+REMARK INTER:                   2.094
+REMARK INTRA:                  -0.199
+REMARK UNBOUND:                -0.199
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      10.663   7.028  -5.655  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1       9.187   6.815  -6.082  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1       8.581   6.066  -4.875  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1       9.696   5.425  -4.155  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1      10.954   5.723  -4.873  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1       9.761   5.891  -2.763  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1       7.611   5.019  -5.357  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1       6.683   5.322  -6.335  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1       5.831   4.411  -6.762  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1       5.826   3.185  -6.278  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1       6.725   2.808  -5.298  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1       7.640   3.737  -4.828  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:     4.935      1.137      4.510
+REMARK INTER + INTRA:           5.024
+REMARK INTER:                   5.245
+REMARK INTRA:                  -0.221
+REMARK UNBOUND:                -0.199
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1       6.177   2.856  -4.658  0.00  0.00    +0.017 C 
+ATOM      2  C   UNL     1       7.033   3.932  -3.940  0.00  0.00    +0.025 C 
+ATOM      3  C   UNL     1       7.117   5.064  -4.986  0.00  0.00    +0.088 C 
+ATOM      4  N   UNL     1       6.863   4.460  -6.305  0.00  0.00    -0.298 NA
+ATOM      5  C   UNL     1       6.652   3.007  -6.125  0.00  0.00    +0.085 C 
+ATOM      6  C   UNL     1       5.704   5.084  -6.957  0.00  0.00    +0.105 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNL     1       8.490   5.685  -4.960  0.00  0.00    -0.012 A 
+ATOM      8  C   UNL     1       8.917   6.481  -6.006  0.00  0.00    +0.115 A 
+ATOM      9  N   UNL     1      10.117   7.028  -5.992  0.00  0.00    -0.263 NA
+ATOM     10  C   UNL     1      10.952   6.840  -4.989  0.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1      10.594   6.057  -3.907  0.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1       9.339   5.470  -3.885  0.00  0.00    +0.008 A 
+ENDBRANCH   3   7
+TORSDOF 1
+ENDMDL

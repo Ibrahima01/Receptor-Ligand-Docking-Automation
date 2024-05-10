@@ -1,0 +1,24 @@
+REMARK  Name = Nicotine.pdb
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_3  and  C_6
+REMARK    2  A    between atoms: N_4  and  C_12
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK     0      -0.019   1.545   0.010  0.00  0.00    +0.000 C 
+ATOM      2  C   UNK     0       1.496   1.879  -0.002  0.00  0.00    +0.000 C 
+ATOM      3  C   UNK     0       2.090   0.765  -0.890  0.00  0.00    +0.000 C 
+ATOM      4  N   UNK     0       1.139  -0.361  -0.873  0.00  0.00    +0.000 NA
+ATOM      5  C   UNK     0       0.002  -0.004   0.002  0.00  0.00    +0.000 C 
+ATOM      6  C   UNK     0       0.679  -0.683  -2.230  0.00  0.00    +0.000 C 
+ENDROOT
+BRANCH   3   7
+ATOM      7  C   UNK     0       3.420   0.323  -0.337  0.00  0.00    +0.000 A 
+ATOM      8  C   UNK     0       3.477  -0.556   0.728  0.00  0.00    +0.000 A 
+ATOM      9  N   UNK     0       4.637  -0.948   1.218  0.00  0.00    +0.000 NA
+ATOM     10  C   UNK     0       5.780  -0.522   0.718  0.00  0.00    +0.000 A 
+ATOM     11  C   UNK     0       5.802   0.358  -0.348  0.00  0.00    +0.000 A 
+ATOM     12  C   UNK     0       4.602   0.788  -0.893  0.00  0.00    +0.000 A 
+ENDBRANCH   3   7
+TORSDOF 1
