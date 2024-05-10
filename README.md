@@ -54,11 +54,11 @@ conda install rdkit cython
 conda install MDAnalysisTests
 ```
 
-_ Openmm
+- Openmm
 ```
 conda install -c conda-forge openmm
 ```
 
 ## Limitation 
-> This program currently supports a limited number of receptor and ligand file formats. Additional format support may be added in future updates.
-> The docking algorithm may not accurately predict binding affinities in all cases and should be validated with experimental data.
+>* This program currently supports a limited number of receptor and ligand file formats. Additional format support may be added in future updates.
+>* The docking algorithm may not accurately predict binding affinities in all cases and should be validated with experimental data.
