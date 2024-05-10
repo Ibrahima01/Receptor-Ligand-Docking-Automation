@@ -61,6 +61,7 @@ conda install -c conda-forge openmm
 
 ## How to use:
 Search for software using the next command :
+
 ```git clone https://github.com/Ibrahima01/Receptor-Ligand-Docking-Automation.git```.
 
 Then delete all proteins in the ```proteins``` folder, and delete ligands in the ``ligand'' folder.
