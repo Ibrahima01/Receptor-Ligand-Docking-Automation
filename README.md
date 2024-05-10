@@ -13,7 +13,7 @@ This project is reliant on a variety of Python librairies such as :
 - [RDKit](https://www.rdkit.org/)
 - [PDBFixer](https://htmlpreview.github.io/?https://github.com/openmm/pdbfixer/blob/master/Manual.html)
 - [MDAnalysis](https://www.mdanalysis.org/)
-- [OpenM](http://docs.openmm.org/latest/api-python/)
+- [OpenMM](http://docs.openmm.org/latest/api-python/)
 - [PDBFixer](https://github.com/openmm/pdbfixer)
 
 ## Installation:
