@@ -13,7 +13,7 @@ Jupyter Dock is reliant on a variety of academic software. The Jupyter Dock.yaml
 - [RDKit](https://www.rdkit.org/)
 - [PDBFixer](https://htmlpreview.github.io/?https://github.com/openmm/pdbfixer/blob/master/Manual.html)
 - [MDAnalysis](https://www.mdanalysis.org/)
-- [OpenM] (http://docs.openmm.org/latest/api-python/)
+- [OpenM](http://docs.openmm.org/latest/api-python/)
 - [PDBFixer](https://github.com/openmm/pdbfixer) is a tool for fixing problems in PDB files, such as missing atoms or residues. It is used to prepare the receptor structure for docking simulations.
 
 ## Installation:
