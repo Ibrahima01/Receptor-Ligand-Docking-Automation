@@ -59,6 +59,12 @@ conda install MDAnalysisTests
 conda install -c conda-forge openmm
 ```
 
+## How to use:
+Search for software using ```git clone https://github.com/Ibrahima01/Receptor-Ligand-Docking-Automation.git``.
+Then delete all proteins in the ```proteins``` folder, and delete ligands in the ``ligand'' folder.
+You'll be using your own proteins and ligands.
+
+
 ## Limitation 
 >* This program currently supports a limited number of receptor and ligand file formats. Additional format support may be added in future updates.
 >* The docking algorithm may not accurately predict binding affinities in all cases and should be validated with experimental data.
